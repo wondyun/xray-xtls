@@ -1,10 +1,10 @@
 #!/bin/bash
 
-RED="\033[31m"    # Error message
-GREEN="\033[32m"  # Success message
-YELLOW="\033[33m" # Warning message
-BLUE="\033[36m"   # Info message
-PLAIN='\033[0m'
+RED="\033[31m" # 错误信息
+GREEN="\033[32m" # 成功信息
+YELLOW="\033[33m" # 警告信息
+BLUE="\033[36m" # 信息信息
+平原='\033[0m'
 
 SITES=(
 	http://www.zhuizishu.com/
